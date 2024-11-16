@@ -222,22 +222,32 @@ main {
 /* portfolio project images */
 .run-buddy {
   background-image: url("../images/02-run-buddy.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .led-wall {
   background-image: url("../images/02-portfolio-1.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .react-calc {
   background-image: url("../images/02-portfolio-2.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .pastel-puzzles {
   background-image: url("../images/02-portfolio-3.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .surf-report {
   background-image: url("../images/02-portfolio-4.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 /* end portfolio project images */
